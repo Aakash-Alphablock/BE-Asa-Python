@@ -1,0 +1,14 @@
+Django
+djangorestframework
+django-nose
+nose
+coverage
+PyJWT
+mysqlclient
+python-dotenv
+pinecone-client
+supabase
+lxml
+requests
+pymysql
+werkzeug
